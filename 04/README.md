@@ -40,7 +40,7 @@ This is a Sample Image
 - mkdir markdown_linux_assingment
 - Go to the created directory with the command: cd markdown_linux_assingment
 
-![](/pic/02.png)
+![](pic/02.png)
 
 3. Create a new empty file named README.md with the command:
 
@@ -49,14 +49,14 @@ This is a Sample Image
 - touch README.md
 - ll
 
-![](/pic/03.png)
+![](pic/03.png)
 
 5. Open README.md file in a text editor, for example, using a nano editor:
 
 - nano README.md
 
-![](/pic/05.png)
-![](/pic/04.png)
+![](pic/05.png)
+![](pic/04.png)
 
 
 6. Add the existing Markdown content to the file and save the changes.
@@ -68,19 +68,19 @@ This is a Sample Image
 
 - git init
 
-![](/pic/06.png)
+![](pic/06.png)
 
 2. Add README.md file to the Git repository with the command:
 
 - git add README.md
 
-![](/pic/07.png)
+![](pic/07.png)
 
 3. Make your first commit with the command:
 
 - git commit -m "Initial commit: Added README.md with Markdown and Linux instructions"
 
-![](/pic/08.png)
+![](pic/08.png)
 
 
 
