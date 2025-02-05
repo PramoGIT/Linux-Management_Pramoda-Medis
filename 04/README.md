@@ -27,7 +27,7 @@
 
 This is a Sample Image
 
-![RUN-EU LOGO](/pic/01.png)
+![RUN-EU LOGO](pic/01.png)
 
 
 
