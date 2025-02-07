@@ -1,0 +1,58 @@
+06.02.2025 - Linux
+
+
+1. To update the latest update
+sudo apt update
+
+2. for the upgradable version enter below,
+sudo apt list --upgradable
+
+3. Again,
+sudo apt upgrade
+
+4. select
+y
+
+5. 
+sudo apt autoclean
+
+6.
+sudo apt autoremove
+
+7.
+sudo dpkg -l
+
+8. 
+sudo dpkg -l|grep tzdata
+
+9.cd /etc/apt/
+
+10. 
+ls -l
+
+11.
+sudo ss-ltunp
+
+12.
+ll
+
+13.
+cat sources.list
+
+14.
+cd /etc/apt/sources.list.d
+
+15.
+ll
+
+16.
+cat ubuntu.sources
+
+17.
+
+
+
+
+
+
+
